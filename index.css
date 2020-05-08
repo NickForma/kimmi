@@ -1,0 +1,13 @@
+body {
+  background-image: url("./assets/background-colored-parquet-pastel-450066.jpg");
+}
+
+.cardImg {
+  height: 200px;
+  width: 280px;
+  border: black 2px dashed;
+}
+
+.flex-container {
+  display: flex;
+}
