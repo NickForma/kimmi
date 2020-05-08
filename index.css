@@ -6,8 +6,20 @@ body {
   height: 200px;
   width: 280px;
   border: black 2px dashed;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .flex-container {
   display: flex;
+  justify-content: center;
+}
+
+h1{
+    text-align: center;
+}
+
+.yes {
+    text-align: center;
 }
